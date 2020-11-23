@@ -8,8 +8,8 @@ export default class Timeline extends Component {
           <div className="colorlib-narrow-content">
             <div className="row">
               <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                <span className="heading-meta">highlights</span>
-                <h2 className="colorlib-heading animate-box">Timeline</h2>
+                <span className="heading-meta">Highlights</span>
+                <h2 className="colorlib-heading animate-box">TIMELINE</h2>
               </div>
             </div>
             <div className="row">
@@ -21,8 +21,11 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Juniper <span>2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <h2>LEAD ENGINEER, QBURST TECHNOLOGIES <span>2014-present</span></h2>
+                        <p>- Leading the development, testing and deployment of the web applications. </p>
+                        <p>- Improving existing, and developing new e-commerce products and applications. </p>
+                        <p>- Creating custom AngularJS components for internal framework. </p>
+                        <p>- Developing responsive prototypes based on business requirements using HTML5, CSS3, JavaScript.</p>
                       </div>
                     </div>
                   </article>
@@ -32,8 +35,12 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at DAIICT<span>2015-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <h2>FREELANCE DEVELOPER, UPWORK<span> 2017-2019</span></h2>
+                        
+                        <p>- Actively worked with an agile team for developing new user-facing features using React.js.</p>
+                        <p>- Built reusable components and front-end libraries.</p>
+                        <p>- Familiarized with Restful API.</p>
+                        <p>- Maintained active conversation with the client to ensure that the work met their needs.</p>
                       </div>
                     </div>
                   </article>
@@ -43,8 +50,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>BACHELOR OF TECHNOLOGY, ELECTRONICS AND COMMUNICATION <span>2010-2014</span></h2>
+                        <p>I have completed my bachelors degree in Electronics and Communication Engineering with CGPA 7.87.</p> 
                       </div>
                     </div>
                   </article>
